@@ -12,7 +12,7 @@ public class Rotulo extends JFrame{
 	public Rotulo(){
 		super("Usando rótulos em JFrame");
 
-		Icon xicara = new ImageIcon("src/xicara.png");
+		Icon xicara = new ImageIcon("src/SWING/xicara.png");
 		
 		/*
  			Para usar JLabel com Icon e String, precisamos usar o conceito de alinhamento.

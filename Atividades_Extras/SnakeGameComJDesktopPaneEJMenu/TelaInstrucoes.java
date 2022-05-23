@@ -1,4 +1,4 @@
-package SnakeGameComJDesktopPaneEJMenu;
+package Atividades_Extras.SnakeGameComJDesktopPaneEJMenu;
 
 public class TelaInstrucoes extends InternalFrameImage {
 

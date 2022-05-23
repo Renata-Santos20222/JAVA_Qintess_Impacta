@@ -1,4 +1,4 @@
-package SnakeGameComJDesktopPaneEJMenu;
+package Atividades_Extras.SnakeGameComJDesktopPaneEJMenu;
 
 import java.awt.Dimension;
 import java.awt.Graphics;
