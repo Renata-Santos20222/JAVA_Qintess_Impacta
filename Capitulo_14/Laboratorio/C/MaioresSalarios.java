@@ -7,9 +7,16 @@ public class MaioresSalarios {
 		double[] salariosBrutos = {1350.00, 4320.15, 8235.25, 2500.55, 1830.00, 850.26, 3614.29, 12500.00};
 		double[] salariosTop;
 		
+		System.out.print("Salários Brutos:");
+		
 		salariosTop = DoubleArrayUtils.filtraValores(salariosBrutos, (salario) -> salario >= 3000? true:false);
 
 		DoubleArrayUtils.processaValores(salariosBrutos, a -> System.out.println(a));
+		
+		System.out.println("------------------------------------------------------");
+		System.out.print("Salários Brutos:");
+		
+		DoubleArrayUtils.processaValores(salariosTop, a -> System.out.println(a));
 		
 		
 		/*
