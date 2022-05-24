@@ -10,6 +10,7 @@ public class ExercicioIdade {
 			Scanner scan = new Scanner(System.in);
 			System.out.print("Informe o ano de seu nascimento: ");
 			int anoNascimento = Integer.parseInt(scan.nextLine());
+			scan.close();
 			
 			System.out.println("A sua idade é: " + (2022 - anoNascimento) + " anos");
 		}

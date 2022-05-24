@@ -12,6 +12,7 @@ public class ExercicioGravacao {
 			Scanner scan = new Scanner(System.in);
 			System.out.print("Digite uma frase: ");
 			String texto = scan.nextLine();
+			scan.close();
 			
 			PrintWriter writer = new PrintWriter("C://doc1.txt");
 			writer.println(texto);
