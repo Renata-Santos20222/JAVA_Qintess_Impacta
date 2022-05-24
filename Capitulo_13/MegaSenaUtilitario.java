@@ -1,4 +1,4 @@
-package Capitulo_13.MegaSena;
+package Capitulo_13;
 
 import java.util.Random;
 

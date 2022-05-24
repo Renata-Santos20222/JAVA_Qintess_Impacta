@@ -1,10 +1,10 @@
-package Capitulo_13.MegaSena.Testes.MegaSena;
+package Capitulo_13.TesteMegaSena;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Capitulo_13.MegaSena.MegaSenaUtilitario;
+import Capitulo_13.MegaSenaUtilitario;
 
 	/*
 		É a annotation mais básica do JUnit, que serve para marcar métodos que serão executados como testes.

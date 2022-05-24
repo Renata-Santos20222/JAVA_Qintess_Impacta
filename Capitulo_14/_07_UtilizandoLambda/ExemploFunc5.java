@@ -1,4 +1,4 @@
-package Capitulo_14._07_Exemplo_01;
+package Capitulo_14._07_UtilizandoLambda;
 
 public interface ExemploFunc5 {
 	
