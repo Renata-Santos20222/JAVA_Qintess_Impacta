@@ -39,7 +39,5 @@ public class Produto {
 	public void setPrecoProd(double precoProd) {
 		this.precoProd = precoProd;
 	}
-	
-
 
 }
