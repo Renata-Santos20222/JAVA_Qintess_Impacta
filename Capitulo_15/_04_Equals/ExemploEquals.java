@@ -1,4 +1,4 @@
-package Capitulo_15._03_Set;
+package Capitulo_15._04_Equals;
 
 public class ExemploEquals {
 
