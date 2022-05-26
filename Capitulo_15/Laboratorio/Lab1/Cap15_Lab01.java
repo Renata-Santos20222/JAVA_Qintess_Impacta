@@ -19,8 +19,17 @@ public class Cap15_Lab01 {
 		// Exibindo os resultados
 		pessoaMap.forEach((chave, valor) -> System.out.println(chave + ": " + pessoaMap.get(chave)));
 		
-		// Outra forma
-		// pessoaMap.forEach((chave, valor) -> System.out.println(chave + ": " + valor));
+		/*
+			Outra forma
+			pessoaMap.forEach((chave, valor) -> System.out.println(chave + ": " + valor));
+		*/
+		
+		/*
+			Ou
+			for(String k : pessoaMap.keySet()) {
+	            System.out.println(k + ": " + pessoaMap.get(k));
+	        }
+		*/
 
 	}
 
